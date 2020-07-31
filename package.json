@@ -1,0 +1,20 @@
+{
+  "name": "Marketica landing page",
+  "version": "1.0.0",
+  "description": "Практика вёрстки с использованием gulp и scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Panagoda <nikita.panagoda16@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-stylelint": "^13.0.0",
+    "stylelint": "^13.2.1",
+    "stylelint-config-recess-order": "^2.0.3",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
